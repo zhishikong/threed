@@ -1,0 +1,1 @@
+import{d as e,s as _,y as c,_ as n}from"./index-207fea6b.js";const t={ref:"container",class:"container"},s=e({__name:"index",setup(o){return(a,r)=>(c(),_("div",t," 手机 ",512))}});const i=n(s,[["__scopeId","data-v-c55ceecf"]]);export{i as default};
