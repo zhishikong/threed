@@ -1,0 +1,1 @@
+import{d as e,s as _,z as n,_ as t}from"./index-12e0f53f.js";const s={ref:"container",class:"container"},o=e({__name:"index",setup(c){return(a,r)=>(n(),_("div",s," 房 ",512))}});const i=t(o,[["__scopeId","data-v-8219f929"]]);export{i as default};
